@@ -1,0 +1,17 @@
+.Order {
+    text-align: left;
+    padding: 0.2rem 0.75rem;
+    border-bottom: 1px solid gray;
+    cursor: pointer;
+}
+
+.Order-header {
+    padding-right: 1rem;
+    display: inline-block;
+}
+
+.Order-header-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

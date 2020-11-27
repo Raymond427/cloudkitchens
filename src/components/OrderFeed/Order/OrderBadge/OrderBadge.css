@@ -1,0 +1,6 @@
+.OrderBadge {
+    font-weight: bold;
+    padding: 0.5rem 1rem;
+    max-width: 5rem;
+    border-radius: 0.5rem;
+}

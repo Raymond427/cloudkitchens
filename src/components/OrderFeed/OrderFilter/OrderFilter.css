@@ -1,0 +1,16 @@
+.OrderFilter-buttons {
+    display: flex;
+    align-items: center;
+    max-width: 28rem;
+    margin: 0 auto;
+}
+
+.OrderFilter button {
+    margin: auto 1rem;
+    background-color: palegreen;
+    border: none;
+    font-weight: 600;
+    padding: 1rem;
+    cursor: pointer;
+    border-radius: 0.5rem;
+}
